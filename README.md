@@ -52,13 +52,6 @@ git clone https://github.com/EuKaueCMP/Burguer_Template_WEB.git
 cd Burguer_Template_WEB
 ```
 
-3. Open `index.html` directly in your browser, or serve it using an extension such as VS Code Live Server:
-```bash
-# If using Python simple HTTP server:
-python3 -m http.server 8000
-```
-Then navigate to `http://localhost:8000`.
-
 ## Developer
 
 **Kauê Sérgio Campos**  
